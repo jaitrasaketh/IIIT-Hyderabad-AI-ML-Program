@@ -1,3 +1,2 @@
 # IIIT-Hyderabad-AI-ML-Program
-Sri Jaitra Saketh Goparaju
-AIML20240266
+This repository contains my learnings, tutorials , assignment work and projects at AI/ML Program at IIIT Hyderabad

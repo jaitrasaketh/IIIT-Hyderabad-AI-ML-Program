@@ -1,2 +1,3 @@
-# IIIT-Hyderabad-AI-ML-Program
-This repository contains my lab work and projects at AI/ML Program at IIIT Hyderabad
+#IIIT Hyderabad Student AI/ML Program
+
+This repository contains my Projects and Weekly Assignments for the Artificial Intelligence and Machine Learning Course at IIIT Hyderabad.

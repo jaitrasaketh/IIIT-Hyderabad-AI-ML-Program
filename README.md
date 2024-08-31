@@ -40,4 +40,4 @@ This module is currently ongoing, with discussions centered around the Gradient 
 
 ---
 
-Feel free to explore the repository to see the detailed assignments and projects. Contributions and suggestions are welcome!
+Feel free to explore the repository to see the detailed assignments and projects. Suggestions are welcome in the Issues Tab!
